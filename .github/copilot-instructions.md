@@ -22,3 +22,24 @@
 - ALWAYS decompose large tasks into smaller sub-tasks and assign to specialized agents
 - When delegating to sub agents ensure you are minimal in context tokens to preserve token budget
 - ALWAYS review sub agent outputs for correctness and completeness
+
+```markdown
+### Issue Name
+**Problem:** What went wrong
+
+**Root Cause:** Why it happened
+
+**Solution:**
+[Code or commands that fixed it]
+
+**Best Practice:** (optional)
+- Key lessons learned
+- How to avoid this in the future
+
+**Files Changed:** List of modified files
+```
+
+- Search existing memory files before creating new ones to avoid duplicates
+- Update `.github/memory/README.md` to link to new files
+
+---
